@@ -11,10 +11,10 @@
 
 - 🎓 B.E. Computer Science Engineering graduate from Chennai
 - 💡 I like building things that are clean, logical, and actually work
-- 🔭 Currently learning **Spring Boot** and **Data Structures & Algorithms**
+- 🔭 Currently learning **Java Full Stack** and **Data Structures & Algorithms**
 - 🌱 Exploring **Backend Development** with Java
 - 💼 Open to **Full-Time Software Developer** roles in Chennai & Remote
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid/)**
 
 ---
 
