@@ -14,7 +14,7 @@
 - 🔭 Currently learning **Java Full Stack** and **Data Structures & Algorithms**
 - 🌱 Exploring **Backend Development** with Java
 - 💼 Open to **Full-Time Software Developer** roles in Chennai & Remote
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** & **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid/)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** & **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid/)** & **[Gmail](rahul.ravichandrann@gmail.com)**
 
 ---
 
@@ -60,8 +60,14 @@
   <a href="https://www.linkedin.com/in/rahul-r-u-02a1a2279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
+  <img src="https://img.shields.io/badge/Naukri-005EAA?style=for-the-badge&logo=briefcase&logoColor=white" />
+  </a>
   <a href="https://github.com/rahulru-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rahul.ravichandrann@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
