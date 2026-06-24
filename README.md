@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul R U</h1>
-<h3 align="center">Java Developer · CSE Graduate · Chennai, India</h3>
+<h3 align="center">Software Developer · CSE Graduate · Chennai, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Java+Developer+(Fresher);Building+clean+%26+logical+code;Open+to+Full-Time+SDE+Roles" alt="Typing SVG" />
