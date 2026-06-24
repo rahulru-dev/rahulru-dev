@@ -14,7 +14,7 @@
 - 🔭 Currently learning **Java Full Stack** and **Data Structures & Algorithms**
 - 🌱 Exploring **Backend Development** with Java
 - 💼 Open to **Full-Time Software Developer** roles in Chennai & Remote
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** & **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid/)** & **[Gmail](rahul.ravichandrann@gmail.com)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** & **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)** & **[Gmail](mailto:rahul.ravichandrann@gmail.com)**
 
 ---
 
