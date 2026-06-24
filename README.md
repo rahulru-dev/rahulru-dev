@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer · CSE Graduate · Chennai, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Java+Developer+(Fresher);Building+clean+%26+logical+code;Open+to+Full-Time+SDE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🔭 Currently learning **Java Full Stack** and **Data Structures & Algorithms**
 - 🌱 Exploring **Backend Development** with Java
 - 💼 Open to **Full-Time Software Developer** roles in Chennai & Remote
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)**&**[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid/)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** & **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid/)**
 
 ---
 
