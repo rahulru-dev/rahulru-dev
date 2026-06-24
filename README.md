@@ -66,9 +66,9 @@
   <a href="https://github.com/rahulru-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:rahul.ravichandrann@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahul.ravichandrann@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</a>
 </p>
 
 ---
