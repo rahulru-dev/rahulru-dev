@@ -70,3 +70,9 @@
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulru-dev/rahulru-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
