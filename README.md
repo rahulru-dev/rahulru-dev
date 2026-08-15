@@ -14,7 +14,7 @@
 - 🔭 Currently learning **Java Full Stack** and **Data Structures & Algorithms**
 - 🌱 Exploring **Backend Development** with Java
 - 💼 Open to **Full-Time Software Developer** roles in Chennai & Remote
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** & **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)** 
+- 📫 Reach me at: **[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=rahul.ravichandrann@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** & **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)**
 
 ---
 
@@ -22,34 +22,19 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript%20(ES6)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulru-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulru-dev&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulru-dev&theme=tokyonight&hide_border=true" width="55%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulru-dev&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/rahulru-dev/rahulru-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -60,15 +45,18 @@
   <a href="https://www.linkedin.com/in/rahul-r-u-02a1a2279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
-  <img src="https://img.shields.io/badge/Naukri-005EAA?style=for-the-badge&logo=briefcase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Naukri-005EAA?style=for-the-badge&logo=briefcase&logoColor=white" />
   </a>
+
   <a href="https://github.com/rahulru-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahul.ravichandrann@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahul.ravichandrann@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -80,3 +68,4 @@
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
+```
