@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer · Full Stack Developer · CSE Graduate · Chennai, India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=500&lines=Software+Developer;Full+Stack+Developer" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Software%20Developer%20%7C%20Full%20Stack%20Developer-2E9BF7?style=for-the-badge&logo=github&logoColor=white" alt="Software Developer | Full Stack Developer" />
 </p>
 
 ---
