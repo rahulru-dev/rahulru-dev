@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul R U</h1>
-<h3 align="center">Software Developer · CSE Graduate · Chennai, India</h3>
+<h3 align="center">Software Developer · Full Stack Developer · CSE Graduate · Chennai, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
@@ -11,10 +11,10 @@
 
 - 🎓 B.E. Computer Science Engineering graduate from Chennai
 - 💡 I like building things that are clean, logical, and actually work
-- 🔭 Currently learning **Java Full Stack** and **Data Structures & Algorithms**
-- 🌱 Exploring **Backend Development** with Java
-- 💼 Open to **Full-Time Software Developer** roles in Chennai & Remote
-- 📫 Reach me at: **[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=rahul.ravichandrann@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/rahul-r-u-02a1a2279/)** · **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)**
+- 🔭 Currently learning **Full Stack Development** , **Data Structures & Algorithms** and **QA & Test Automation**
+- 🌱 Exploring **Development & Testing**
+- 💼 Open to **Full-Time Software Developer/Full Stack Developer** roles in Chennai & Remote
+- 📫 Reach me at: **[Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=rahul.ravichandrann@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/rahulru-dev/)** · **[Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)**
 
 ---
 
